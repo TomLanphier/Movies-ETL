@@ -1,3 +1,6 @@
 # Ignore data files because they are too big.
 movies_metadata.csv
 ratings.csv
+
+# Ignore config.py file.
+config.py
